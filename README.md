@@ -85,6 +85,24 @@ streamlit run app.py
 
 ---
 
+# Preview
+
+## Phishing Email:
+
+
+
+<img width="809" height="790" alt="Screenshot 2025-10-28 201755" src="https://github.com/user-attachments/assets/337ebb00-c0c9-4917-8307-f6a75270063e" />
+
+---
+
+## Safe Email:
+
+
+
+<img width="813" height="806" alt="Screenshot 2025-10-28 201904" src="https://github.com/user-attachments/assets/e8de69b7-ad7e-44ed-bd7a-418655e1bb49" />
+
+---
+
 ## 📈 Example Output
 
 - 🔍 URL: http://phishy-example.com
